@@ -1,2 +1,2 @@
-Site das Sobremsas da Tereza:
+Site das Sobremesas da Tereza:
 https://caveden.github.io/Sobremesas-da-Tereza/
